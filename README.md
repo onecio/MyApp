@@ -1,4 +1,13 @@
-Comandos do git
+
+#git init (iniciar projeto local)
+
+#git status
+
+#git add . (incluir projeto ou arquivo em estage (pronto ou indexado)
+
+#git commit -m "aqui msg) (commitar)
+
+######################### Comandos do git ##################################################
 
 git commit -m"contaúdo da mensagem de commit": Gravação de arquivo no git. Esse comando serve para commitar os arquivos no git.
 O "-m" é referete ao termo "mensseger". Ou seja, mensagem que será gravada no commit.
